@@ -1,0 +1,7 @@
+# n actual_multiplications n_squared
+2 4 4
+4 16 16
+8 64 64
+16 256 256
+32 1024 1024
+64 4096 4096
